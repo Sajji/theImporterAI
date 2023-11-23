@@ -3,6 +3,6 @@
   "targetApiURL": "https://federal.collibra.com/rest/2.0",
   "targetUsername": "SysAdmin",
   "targetPassword": "woffles",
-  "backupDir": "./backupDir",
+  "backupDir": "/Users/woffles/Documents/GitHub/extractor/theImporterAI/backupDir",
   "tempFilesDir": "/home/woffles/Code/coPilotImporter/tempFilesDir"
 }
